@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include opspiry *.css
+recursive-include opspiry *.csv
+recursive-include opspiry *.html
+recursive-include opspiry *.ico
+recursive-include opspiry *.js
+recursive-include opspiry *.json
+recursive-include opspiry *.md
+recursive-include opspiry *.png
+recursive-include opspiry *.py
+recursive-include opspiry *.svg
+recursive-include opspiry *.txt
+recursive-exclude opspiry *.pyc
