@@ -1,7 +1,7 @@
 from . import __version__ as app_version
 
 app_name = "opspiry"
-app_title = "Opspiry"
+app_title = "OPSPIRY"
 app_publisher = "Inspiry"
 app_description = "ERP for Distribution by PT INSPIRY INDONESIA KONSULTAN"
 app_email = "adi.setyono@gmail.com"
