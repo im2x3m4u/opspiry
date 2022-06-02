@@ -6,6 +6,7 @@ app_publisher = "Inspiry"
 app_description = "ERP for Distribution by PT INSPIRY INDONESIA KONSULTAN"
 app_email = "adi.setyono@gmail.com"
 app_license = "MIT"
+app_logo_url = "/assets/opspiry/images/logo-opspiry100.png"
 
 # Includes in <head>
 # ------------------
