@@ -7,6 +7,10 @@ app_description = "ERP for Distribution by PT INSPIRY INDONESIA KONSULTAN"
 app_email = "adi.setyono@gmail.com"
 app_license = "MIT"
 app_logo_url = "/assets/opspiry/images/logo-opspiry100.png"
+website_context = {
+	"favicon": '/assets/my_app/images/favicon-96x96.png',
+	"splash_image": "/assets/opspiry/images/logo-opspiry100.png"
+}
 
 # Includes in <head>
 # ------------------
